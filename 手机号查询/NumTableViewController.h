@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  NumTableViewController.h
 //  手机号查询
 //
 //  Created by 张伟伟 on 2016/11/22.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface NumTableViewController : UITableViewController
 
 @end
-

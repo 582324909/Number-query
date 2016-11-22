@@ -1,0 +1,7 @@
+platform :ios, "8.0"
+
+target "手机号查询" do
+
+pod 'AFNetworking'
+
+end
